@@ -269,7 +269,7 @@ code {
   padding: 10px 0;
   width: 311px;
   height: 40px;
-  background-image: url("/images/logo-header.png");
+  background-image: url("images/logo-header.png");
   background-position: 0px 10px;
   background-repeat: no-repeat;
   -webkit-background-size: 311px 40px;
@@ -338,6 +338,9 @@ code {
 }
 #header {
   background: #26272b;
+  background-image: url("images/header-background.png");
+  background-repeat: no-repeat;
+  background-position: center top;
   padding-bottom: 60px;
   position: relative;
 }
